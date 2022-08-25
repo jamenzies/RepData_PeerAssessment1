@@ -209,3 +209,5 @@ Interestingly,the two patterns are quite different:
 * The week days begin much earlier and have a peak around 8:30A.  They then have a lower average step count throughout the day
 * Weekends see a later start but a higher step count throughout the day (perhaps hiking for fun?)
 
+
+
